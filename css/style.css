@@ -1,0 +1,299 @@
+* {
+    font-family: Open Sans, Arial, Helvetica, Sans-serif;;
+}
+/* HEADER */
+header {
+    background-image: url(/img/inflicted.png);
+}
+header p {
+    padding-bottom: 26px;
+    margin: 0 0;
+}
+h1 a {
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+h1 {
+    padding-top: 104px;
+    padding-bottom: 26px;
+}
+.twitter-btn {
+    position: absolute;
+    top: 20px;
+    right: 15px;
+    width: 179px; 
+    height: 28px;
+}
+.nav {
+    background-color: rgba(255, 255, 255, 0.6);
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+}
+.nav-link {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000;
+}
+.nav-item {
+    padding: 0px 32px;
+}
+/* HOVER */
+.nav a:hover {
+    background-color: rgba(255, 255, 255, 0.6);
+    color: black;
+}
+/* MAIN */
+.main {
+    margin: auto;
+}
+/* MAIN ROW-1 */
+#row-1 {
+    padding: 16px;
+}
+.col-item-1 {
+    background-image: url(/img/inflicted.png);
+    padding: 16px;
+    border-radius: 3px;
+}
+.col-item-1 h1 {
+    font-weight: bold;
+    color: white;
+    padding: 0;
+}
+.col-item-1 a, .col-item-1 p {
+    color: white;
+}
+.col-item-2 {
+    background-image: url(/img/tiny_grid.png);
+    padding: 16px;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+.col-item-2 a {
+    text-decoration: none;
+    color: black;
+}
+.col-item-2 h2 {
+    font-weight: bold;  
+}
+/* MAIN ROW-2 */
+#row-2 {
+    padding: 16px;
+}
+.row-2-col-item-1 {
+    background-color: #5e35b1;
+    padding: 15px;
+    border-radius: 3px;
+}
+.row-2-col-item-1 a {
+    text-decoration: none;
+    color: white;
+}
+.row-2-col-item-1 h2 {
+    font-weight: bold;
+    color: white;
+}
+.row-2-col-item-1  p {
+    padding-bottom: 26px;
+}
+/* MAIN ROW-3 */
+#row-3 {
+    margin-left: 1px;
+    margin-right: 4px;
+    padding-bottom: 26px;
+}
+.row-3-col-item-1 {
+    color: white;
+    background-image: url(/img/tiny_grid.png);
+    padding: 16px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-bottom: 26px;
+}
+.row-3-col-item-1 a {
+    text-decoration: none;
+    color: black;
+}
+.row-3-col-item-1  p {
+    padding-bottom: 26px;
+}
+.row-3-col-item-1 h2 {
+    text-decoration: none;
+    font-weight: bold;
+}
+.row-3-col-item-2 {
+    color: white;
+    background-image: url(/img/tiny_grid.png);
+    padding: 16px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-bottom: 26px;
+}
+.row-3-col-item-2 a {
+    text-decoration: none;
+    color: black;
+}
+/* MAIN ROW-4 */
+#row-4 {
+    margin-left: 1px;
+    margin-right: 4px;
+    padding-bottom: 26px;
+}
+.row-4-col-item-1 {
+    color: white;
+    background-image: url(/img/tiny_grid.png);
+    padding: 16px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-bottom: 26px;
+}
+.row-4-col-item-1 a {
+    text-decoration: none;
+    color: black;
+}
+.row-4-col-item-1  p {
+    padding-bottom: 26px;
+}
+.row-4-col-item-1 h2 {
+    text-decoration: none;
+    font-weight: bold;
+}
+.row-4-col-item-2 {
+    color: white;
+    background-image: url(/img/tiny_grid.png);
+    padding: 16px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-bottom: 26px;
+}
+.row-4-col-item-2 a {
+    text-decoration: none;
+    color: black;
+}
+/* MAIN ROW-5 */
+#row-5 {
+    margin-left: 1px;
+    margin-right: 4px;
+    padding-bottom: 26px;
+}
+.row-5-col-item-1 {
+    color: white;
+    background-image: url(/img/tiny_grid.png);
+    padding: 16px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-bottom: 26px;
+}
+.row-5-col-item-1 a {
+    text-decoration: none;
+    color: black;
+}
+.row-5-col-item-1  p {
+    padding-bottom: 26px;
+}
+.row-5-col-item-1 h2 {
+    text-decoration: none;
+    font-weight: bold;
+}
+.row-5-col-item-2 {
+    color: white;
+    background-image: url(/img/tiny_grid.png);
+    padding: 16px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-bottom: 26px;
+}
+.row-5-col-item-2 a {
+    text-decoration: none;
+    color: black;
+}
+.row-5-col-item-3 {
+    color: white;
+    background-image: url(/img/tiny_grid.png);
+    padding: 16px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-bottom: 26px;
+}
+.row-5-col-item-3 a {
+    text-decoration: none;
+    color: black;
+}
+/* MAIN ROW-6 */
+#row-6 {
+    margin-left: 1px;
+    margin-right: 4px;
+    padding-bottom: 26px;
+}
+.row-6-col-item-1 {
+    color: white;
+    background-image: url(/img/tiny_grid.png);
+    padding: 16px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-bottom: 26px;
+}
+.row-6-col-item-1 a {
+    text-decoration: none;
+    color: black;
+}
+.row-6-col-item-1  p {
+    padding-bottom: 26px;
+}
+/* FOOTER */
+#footer {
+    background-image: url(/img/inflicted.png);
+}
+.footer-wrapper {
+    padding: 16px 0;
+}
+.footer-item-1 {
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 3px;
+    padding: 16px;
+    color: black;
+    font-size: 13px;
+}
+.footer-item-1 ul{
+    padding-bottom: 26px;
+}
+.footer-item-1 p {
+    font-family: Open Sans, Arial, Helvetica, Sans-serif;
+    margin: 0;
+}
+.footer-item-1 a {
+    font-family: Open Sans, Arial, Helvetica, Sans-serif;
+    color: black;
+}
+/* .flag-new::before {
+    content: "New!";
+    background-color: #087f23;
+    position: absolute;
+    top: -0.8rem;
+    left: -0.8rem;
+    padding: 0.3rem 0.5rem;
+    display: inline-block;
+    color: #fff;
+    font-weight: both;
+    transform: rotate(-20deg);
+} */
